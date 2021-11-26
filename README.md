@@ -1,5 +1,5 @@
 # DAWED
 DAWED
-#analisis
-#diseño
-#pruebas
+# analisis
+# diseño
+# pruebas
