@@ -14,3 +14,15 @@ DAWED
 
 ![alt-text](https://i.pinimg.com/originals/57/19/79/571979283d72a42f6503164075f5a45d.gif)
 >Esto es un citado.
+
+
+| Texto derecha | 
+| ------: |
+|  $ 1600 |
+|    $ 12 |
+|     $ 1 |
+
+
+| Texto centro |
+| :------: |
+| hola |
