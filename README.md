@@ -5,6 +5,10 @@ DAWED
 ~~Para poder dividir el problema en varias partes~~
 # Diseño
 *Es donde intentamos hacer un diseño de la posible solución del problema.*
+| Primer diseño | Segundo diseño |
+| ------------- | ------------- |
+| Ejemplo 1  | Ejemplo 2  |
+| Ejemplo 3  | Ejemplo 4  |
 # Pruebas
 ![This is an image](https://blog.desdelinux.net/wp-content/uploads/2018/05/Editores-de-codigo-linux.jpg)
 
