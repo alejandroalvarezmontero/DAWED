@@ -7,3 +7,5 @@ DAWED
 *Es donde intentamos hacer un diseño de la posible solución del problema.*
 # Pruebas
 ![This is an image](https://blog.desdelinux.net/wp-content/uploads/2018/05/Editores-de-codigo-linux.jpg)
+
+![alt-text](https://i.pinimg.com/originals/57/19/79/571979283d72a42f6503164075f5a45d.gif)
