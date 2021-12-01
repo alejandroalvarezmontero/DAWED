@@ -33,6 +33,13 @@ Cuando algo empieza con # se considera un comentario.
 
 Cuando comienza con ~~ se tacha lo que escribas.Por ejemplo ~~Hola~~
 
+Cuando comienza con * un solo asterisco se pondria en cursiva. Por ejemplo *Hola.*
+
+Para poner texto a la derecha centro o izquierda solo es poner 
+
+| Texto derecha | 
+|------:|
+
 
 
 
