@@ -1,5 +1,5 @@
 # DAWED
-DAWED
+
 # Analisis
 **El analisis es la estapa donde buscamos el error que haya.**
 ~~Para poder dividir el problema en varias partes~~
@@ -26,7 +26,7 @@ DAWED
 | Texto centro |
 | :------: |
 | hola |
-
+>Ahora incluyo un emoticono :fire:
 
 
 
