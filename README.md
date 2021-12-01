@@ -25,6 +25,12 @@
 
 ![alt-text](https://i.pinimg.com/originals/57/19/79/571979283d72a42f6503164075f5a45d.gif)
 
+# Cuando algo empieza con # se considera un comentario.
+**Con dos asteriscos tenemos la letra en negrita.**
+>Cuando empieza con > es un citado.
+Cuando comienza con ~~ se tacha lo que escribas.Por ejemplo ~~Hola~~
+
+
 
 
 
