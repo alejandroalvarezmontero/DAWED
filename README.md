@@ -38,6 +38,7 @@ Cuando comienza con * un solo asterisco se pondria en cursiva. Por ejemplo *Hola
 Para poner texto a la derecha centro o izquierda solo es poner 
 
 "| Seria sin comillas | 
+
 "| ------: |
 
 
