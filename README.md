@@ -25,6 +25,8 @@
 
 ![alt-text](https://i.pinimg.com/originals/57/19/79/571979283d72a42f6503164075f5a45d.gif)
 
+
+
 Cuando algo empieza con # se considera un comentario.
 
 **Con dos asteriscos tenemos la letra en negrita.**
@@ -42,7 +44,10 @@ Para poner texto a la derecha centro o izquierda solo es poner
 "| ------: |
 
 ![This is an image](Esto seria para poner la imagen)
+
 ![alt-text](Y esto para los gifts).
+
+Para poner emogis sería poner entre puntos el nombre del emogis que quieras en inglés.Por ejemplo: ":Fire: :Fire:
 
 
 
