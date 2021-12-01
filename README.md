@@ -47,7 +47,7 @@ Para poner texto a la derecha centro o izquierda solo es poner
 
 ![alt-text](Y esto para los gifts).
 
-Para poner emogis sería poner entre puntos el nombre del emogis que quieras en inglés.Por ejemplo: ":fire: :fire:
+Para poner emogis sería poner entre puntos el nombre del emogis que quieras en inglés.Por ejemplo: :"fire: :fire: Obviamente sin comillas.
 
 
 
