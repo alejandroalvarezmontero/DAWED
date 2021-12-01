@@ -41,7 +41,7 @@ Para poner texto a la derecha centro o izquierda solo es poner
 
 "| ------: |
 
-
+![This is an image](Esto seria para poner la imagen)
 
 
 
